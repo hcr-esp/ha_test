@@ -1,0 +1,11 @@
+{
+  "domain": "hacs_test",
+  "name": "HACS Test",
+  "codeowners": ["@your_github_username"],
+  "config_flow": true,
+  "documentation": "https://github.com/your_username/hacs_test",
+  "integration_type": "device",
+  "iot_class": "local_polling",
+  "requirements": [],
+  "version": "1.0.0"
+}

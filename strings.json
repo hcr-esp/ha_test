@@ -1,0 +1,10 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "HACS Test Integration",
+        "description": "This is a minimal test integration for HACS. Click submit to add it."
+      }
+    }
+  }
+}
